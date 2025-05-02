@@ -114,7 +114,9 @@ Hagspiel, M. (2023). *rciplot: Plot Jacobson-Truax Reliable Change Indices*. R p
 ## Author
 
 *   **Prof. Dr. Frederico G. Pedrosa**
+*   fredericopedrosa@ufmg.br
 
 ## License
 
-MIT License.
+This project is licensed under a modified version of the GNU General Public License v3.0.  
+Commercial use is not permitted without explicit written permission from the author.
