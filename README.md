@@ -1,4 +1,5 @@
 # Reliable Change Index (RCI) Estimator Shiny Apps
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 This repository contains the code for two Shiny web applications (one in English, one in Portuguese) designed to calculate the Reliable Change Index (RCI) as described by Jacobson & Truax (1991). These apps help researchers and clinicians determine if the change observed in an individual's score between two time points (T1 and T2) is statistically reliable or likely due to measurement error.
 
